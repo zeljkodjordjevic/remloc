@@ -1,0 +1,2 @@
+# remloc
+Alarn na lokaciji
